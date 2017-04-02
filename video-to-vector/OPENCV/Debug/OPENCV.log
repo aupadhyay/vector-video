@@ -1,0 +1,2 @@
+﻿  Source.cpp
+opencv_world320d.lib(opencv_world320d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
